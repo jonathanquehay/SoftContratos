@@ -1,0 +1,27 @@
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\DOCENTES.accdb
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\wcruz\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.frmBusqueda.resources
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\DOCENTES.accdb
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\SISTEMA DE CONTRATOS.exe.config
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\SISTEMA DE CONTRATOS.exe.manifest
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\SISTEMA DE CONTRATOS.application
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\SISTEMA DE CONTRATOS.exe
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\SISTEMA DE CONTRATOS.pdb
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\bin\Debug\SISTEMA DE CONTRATOS.xml
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA DE CONTRATOS.exe.manifest
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA DE CONTRATOS.application
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA DE CONTRATOS.exe
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA DE CONTRATOS.xml
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA DE CONTRATOS.pdb
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA_DE_CONTRATOS.frmBusqueda.resources
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA_DE_CONTRATOS.Resources.resources
+C:\Contratos UNAN\WindowsApplication1\WindowsApplication1\obj\Debug\SISTEMA_DE_CONTRATOS.Creditos.resources

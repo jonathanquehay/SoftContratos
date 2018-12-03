@@ -1,0 +1,138 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SISTEMADECONTRATOS
+</name>
+</assembly>
+<members>
+<member name="P:SISTEMA_DE_CONTRATOS.Numalet.Decimales">
+	<summary>
+ Indica la cantidad de decimales que se pasarán a entero para la conversión
+ </summary>
+	<remarks>Esta propiedad cambia al cambiar MascaraDecimal por un valor que empieze con '0'</remarks>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.CultureInfo">
+	<summary>
+ Objeto CultureInfo utilizado para convertir las cadenas de entrada en números
+ </summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.SeparadorDecimalSalida">
+	<summary>
+ Indica la cadena a intercalar entre la parte entera y la decimal del número
+ </summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.MascaraSalidaDecimal">
+	<summary>
+ Indica el formato que se le dara a la parte decimal del número
+ </summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.LetraCapital">
+	<summary>
+ Indica si la primera letra del resultado debe estár en mayúscula
+ </summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.ConvertirDecimales">
+	<summary>
+ Indica si se deben convertir los decimales a su expresión nominal
+ </summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.ApocoparUnoParteEntera">
+	<summary>
+ Indica si de debe cambiar "uno" por "un" en las unidades.
+ </summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.Numalet.ApocoparUnoParteDecimal">
+	<summary>
+ Determina si se debe apococopar el "uno" en la parte decimal
+ </summary>
+	<remarks>El valor de esta propiedad cambia al setear ConvertirDecimales</remarks>
+</member><member name="T:SISTEMA_DE_CONTRATOS.Numalet">
+	<summary>
+ Convierte números en su expresión numérica a su numeral cardinal
+ </summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet.AsignaturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet.DatosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet.AsignaturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet.DatosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet.AsignaturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet.DatosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.AsignaturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.DatosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SISTEMA_DE_CONTRATOS.DOCENTESDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SISTEMA_DE_CONTRATOS.DOCENTESDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SISTEMA_DE_CONTRATOS.DOCENTESDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.UpdateAll(SISTEMA_DE_CONTRATOS.DOCENTESDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.DOCENTESDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.My.Resources.Resources.marca_oficial_unan_managua_white">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SISTEMA_DE_CONTRATOS.My.Resources.Resources.marca_oficial_unan_managua1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SISTEMA_DE_CONTRATOS.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

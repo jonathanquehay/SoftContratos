@@ -1,0 +1,16 @@
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\SISTEMA DE CONTRATOS.exe.config
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA DE CONTRATOS.exe
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA DE CONTRATOS.xml
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA DE CONTRATOS.pdb
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\DOCENTES.accdb
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\SISTEMA DE CONTRATOS.exe.manifest
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\SISTEMA DE CONTRATOS.application
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\SISTEMA DE CONTRATOS.exe
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\SISTEMA DE CONTRATOS.pdb
+C:\Contratos UNAN\SoftContratos\SoftContratos\bin\Debug\SISTEMA DE CONTRATOS.xml
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA_DE_CONTRATOS.frmBusqueda.resources
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA_DE_CONTRATOS.Creditos.resources
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA_DE_CONTRATOS.Resources.resources
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SoftContratos.vbproj.GenerateResource.Cache
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA DE CONTRATOS.exe.manifest
+C:\Contratos UNAN\SoftContratos\SoftContratos\obj\Debug\SISTEMA DE CONTRATOS.application
